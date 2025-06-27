@@ -40,16 +40,13 @@ This repository documents the process and results of conducting a basic vulnerab
 ## 📸 Screenshots
 
 ### 🖥️ Nessus Scan Dashboard
-![Nessus Dashboard](https://assets.tenable.com/prod/images/blog/nessus_cloud_dashboard.png)
+![Nessus Dashboard](https://docs.tenable.com/nessus/Content/Images/Dashboard.png)
 
 ### 🧪 Vulnerability Scan Results
-![Scan Results](https://cyberhoot.com/wp-content/uploads/2021/11/vulnerability_scan_critical_results-1.jpg)
+![Scan Results](https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/images/blog/NES-11486-Pages_0.png)
 
 ### 📋 Sample CVSS Breakdown
-![CVSS Sample](https://www.rapid7.com/globalassets/_hero/blog/2020/cvss3-blog-table.png)
-
-> 📌 *These screenshots are examples. Replace them with your own when available using:*
-> `images/dashboard.png`, `images/results.png`, `images/cvss.png`
+![CVSS Sample](https://www.datocms-assets.com/104397/1708653502-how-to-calculate-the-cvss-score-of-a-vulnerability.png)
 
 ---
 
@@ -112,6 +109,4 @@ It’s when a scanner reports a vulnerability that doesn’t actually exist.
 - Validate and fix **critical** vulnerabilities ASAP
 
 ---
-
-## 📂 Project Folder Structure
 
